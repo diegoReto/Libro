@@ -1,0 +1,4 @@
+Capitulo ruben
+
+Este es un parrafo de ejemplo.
+Aprendiendo git con el profe chan.
